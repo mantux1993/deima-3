@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Kitas ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Ar būsi mano Valentine Vasario 14, 2025? 🌹", // The big question!
+            text: "Ar būsi mano Valentine? 🌹", // The big question!
             yesBtn: "Taip!",                                             // Text for "Yes" button
             noBtn: "Ne"                                                 // Text for "No" button
         }
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Aš laimingiausias žmogus žemėje! 🎉💝💖💝💓",
-        message: "Dabar atsiimk savo dovaną, šiltą apkabinimą ir daug bučinių!",
+        title: "Aš irgi Tave myliu, aišku biškį užpisi.. bet vis tiek :) 🎉💝💖💝💓",
+        message: "Gausi daug apkabinimų ir meilės :)",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
