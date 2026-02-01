@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Ar aš Tau patinku?",                                    // First interaction
             yesBtn: "Taip",                                             // Text for "Yes" button
             noBtn: "Ne",                                               // Text for "No" button
-            secretAnswer: "Ne patinki, o Myliu Tave! ❤️"           // Secret hover message
+            secretAnswer: "xoxo :) ❤️"           // Secret hover message
         },
         second: {
             text: "Kaip labai mane myli?",                          // For the love meter
