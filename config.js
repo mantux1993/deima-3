@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "Kaip labai mane myli?",                          // For the love meter
-            startText: "Tiek daug!",                                   // Text before the percentage
+            startText: "Tiek",                                   // Text before the percentage
             nextBtn: "Kitas ❤️"                                         // Text for the next button
         },
         third: {
@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW Taip labai mane myli?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Iki mėnulio ir atgal! 🚀💝",              // Shows when they go past 1000%
-        normal: "Be galo! 🥰"                           // Shows when they go past 100%
+        extreme: "Apvaisink mane :) 🥰🚀💝",  // Shows when they go past 5000%
+        high: "Jau geriau! 🚀💝",              // Shows when they go past 1000%
+        normal: "Meh! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
